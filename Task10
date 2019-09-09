@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+p1 { font-family: Tahoma, Verdana, Segoe, sans-serif; }
+p2 { font-family: Trebuchet MS, Arial, Helvetica, sans-serif; }
+p3 { font-family: Verdana, Geneva, sans-serif;}
+p4 { font-family: Georgia, Garamond, Palatino, serif; }
+p5 { font-family: Courier New, Courier, monospace; }
+</head>
+	<body>
+		<p1> Tahoma</p1>
+		<p2> Trebuchet MS </p2>
+		<p3> Verdana </p3>
+		<p4> Georgia </p4>
+		<p5> Courier New </p5>
+	</body>
+</html>

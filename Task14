@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+	<body>
+		Unalphabetized list<br>
+		Alan<br>
+		Monica<br>
+		Crissy<br>
+		Christina<br>
+		Merfy<br>
+		Crystal<br>
+		Hank<br>
+		Erjan<br>
+		Viktor<br>
+		Rose<br>
+		Alphabetized list<br>
+		Alan<sup>1</sup><br>
+		Crissy<sup>2</sup><br>
+		Christina<sup>3</sup><br>
+		Crystal<sup>4</sup><br>
+		Erjan<sup>5</sup><br>
+		Hank<sup>6</sup><br>
+		Monica<sup>7</sup><br>
+		Merfy<sup>8</sup><br>
+		Rose<sup>9</sup><br>
+		Viktor<sup>10</sup><br>
+	</body>
+</html>

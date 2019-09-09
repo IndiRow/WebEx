@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<a name="top">The top of the page</a><br>
+<a href="#bottom">Go to the bottom </a><br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+	Bla<br>
+<a href="#top">Go to the top</a><br>
+<a name="bottom">The bottom of the page</a>
+</body>
+</html>

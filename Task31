@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+	<body>
+		Image with border 2 width 200 and height 200<br>
+		<img src='imgwer.jpg' height=200px width=200px border=2px><br>
+	</body>
+</html>

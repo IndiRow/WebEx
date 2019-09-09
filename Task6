@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Title of the web page</title>
+	
+</head>
+
+	<body>
+		<!-- print some text -->
+		Lorem ipsum
+	</body>
+	
+</html>

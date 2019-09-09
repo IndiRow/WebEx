@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+	<body>
+		Some text <q>Lorem ipsum</q><br>
+		Some text <blockquote>Lorem ipsum</blockquote>
+	</body>
+</html>

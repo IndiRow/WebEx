@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+	<body>
+		<del>Deleted text</del>
+		<ins>Inserted text</ins><br>
+	</body>
+</html>
